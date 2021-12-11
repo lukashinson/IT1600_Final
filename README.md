@@ -7,5 +7,5 @@
 <p> The target audience for this tutorial will be anyone needing to convert decimal to binary or binary to decimal! </p>
 <br>
 
-<h2> Please watch this video if you need more help! </h2>
-[![](https://www.youtube.com/embed/rsxT4FfRBaM)]
+
+[Please watch this video if you need mroe help!](https://www.youtube.com/embed/rsxT4FfRBaM)
