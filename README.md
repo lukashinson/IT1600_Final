@@ -17,7 +17,7 @@
 </ol>
 
 <h2> An example worked out! </h2>
-<img src="pic3.png" alt="Pic">
+<img src="pic3.PNG" alt="Pic">
 
 
 [Click here if you need more help!](https://www.youtube.com/embed/rsxT4FfRBaM)
