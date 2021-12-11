@@ -8,4 +8,4 @@
 <br>
 
 
-[Please watch this video if you need more help!](https://www.youtube.com/embed/rsxT4FfRBaM)
+[![](pic2.png](https://www.youtube.com/embed/rsxT4FfRBaM)
