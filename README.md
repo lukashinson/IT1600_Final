@@ -16,6 +16,8 @@
   <li>Read the numbers from bottom up. That will be the binary equivalent to the decimal number. </li>
 </ol>
 
+<h2> An example worked out! </h2>
+
 
 [Click here if you need more help!](https://www.youtube.com/embed/rsxT4FfRBaM)
 
