@@ -3,7 +3,7 @@
 <br>
 
 <img src="pic.png" alt="Pic">
-<p> This tutorial will teach on how to convert decimals to binary numbers and vice versa. My goal for this tutorial is for it be easy to understand and easy to use. </p>
+<p> This tutorial will teach you the basics on how to convert decimals to binary numbers and vice versa. My goal for this tutorial is for it be easy to understand and easy to use. </p>
 <p> The target audience for this tutorial will be anyone needing to convert decimal to binary or binary to decimal! </p>
 <br>
 <h2> Now time for the tutorial to convert decimal to binary </h2>
