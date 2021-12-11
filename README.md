@@ -16,7 +16,7 @@
   <li>Read the numbers from bottom up. That will be the binary equivalent to the decimal number. </li>
 </ol>
 
-<h3> An example worked out! </h3>
+<h4> An example worked out! </h4>
 <img src="pic3.PNG" alt="Pic">
 
 <br>
@@ -29,7 +29,7 @@
   <li>Repeat the previous step.</li>
 </ol>
 
-<h3> Another example worked out </h3>
+<h4> Another example worked out </h4>
 <img src="pic4.PNG" alt="Pic">
 
 [Click here if you need more help!](https://www.youtube.com/embed/rsxT4FfRBaM)
