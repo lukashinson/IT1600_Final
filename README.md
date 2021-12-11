@@ -8,6 +8,4 @@
 <br>
 
 <h2> Please watch this video if you need more help! </h2>
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=rsxT4FfRBaM">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rsxT4FfRBaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
