@@ -17,7 +17,7 @@
 </ol>
 
 <h2> An example worked out! </h2>
-![](pic3.png)
+![](pic3.PNG)
 
 
 [Click here if you need more help!](https://www.youtube.com/embed/rsxT4FfRBaM)
